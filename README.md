@@ -8,7 +8,7 @@
 
 <p>
     <img src="https://img.shields.io/badge/AniList-02A9FF?style=for-the-badge&logo=AniList&logoColor=white">
-</p
+</p>
  
 ## Contact
 
