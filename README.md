@@ -21,3 +21,4 @@
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
+<iframe src="https://github-readme-stats.vercel.app/api?username={arch-fan}">
