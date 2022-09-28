@@ -1,7 +1,8 @@
 <img src="https://i.imgur.com/qEosYDH.png">
 
+<center>
 # Badges
-
+</center>
 
 
 <p>
