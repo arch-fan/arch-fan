@@ -1,7 +1,7 @@
-<div width="20%">
-![ESP](https://raw.githubusercontent.com/joielechong/iso-country-flags-svg-collection/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-4x3/es.svg)
-![ENG](https://raw.githubusercontent.com/joielechong/iso-country-flags-svg-collection/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-4x3/gb.svg)
-</div>
+
+<img src="https://raw.githubusercontent.com/joielechong/iso-country-flags-svg-collection/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-4x3/es.svg" width="50%">
+<img src="https://raw.githubusercontent.com/joielechong/iso-country-flags-svg-collection/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-4x3/gb.svg" width="50%">
+
 # Badges
 
 ## OS
