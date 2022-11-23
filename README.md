@@ -35,5 +35,5 @@
     <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 </p>
 
-![stats](https://github-readme-stats.vercel.app/api?username=arch-fan)
+![stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arch-fan&show_icons=true&theme=tokyonight))
 ![language](https://github-readme-stats.vercel.app/api/top-langs/?username=arch-fan)
