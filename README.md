@@ -36,4 +36,4 @@
 </p>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=arch-fan&show_icons=true&theme=tokyonight)
-![language](https://github-readme-stats.vercel.app/api/top-langs/?username=arch-fan)
+![language](https://github-readme-stats.vercel.app/api/top-langs/?username=arch-fan&langs_count=16&layout=compact&theme=tokyonight)
