@@ -6,7 +6,6 @@
 <p align="center">ESP/ENG</p>
 
 <p align="center">
-    <h1>Favourites</h1> <br>
     <img src="https://github.com/arch-fan/random-anime-fav-img/blob/main/images/anime.jpg?raw=true" width="20%">
     <img src="https://github.com/arch-fan/random-anime-fav-img/blob/main/images/manga.jpg?raw=true" width="20%">
     <img src="https://github.com/arch-fan/random-anime-fav-img/blob/main/images/characters.jpg?raw=true" width="20%">
