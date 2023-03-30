@@ -3,14 +3,14 @@
 <img src="https://raw.githubusercontent.com/joielechong/iso-country-flags-svg-collection/9ebbd577b9a70fbfd9a1931be80c66e0d2f31a9d/svg/country-4x3/gb.svg" width="10%">
 </p>
 
-<p>
-    <img src="https://github.com/arch-fan/random-anime-fav-img/blob/main/images/anime.jpg?raw=true">
-    <img src="https://github.com/arch-fan/random-anime-fav-img/blob/main/images/manga.jpg?raw=true">
-    <img src="https://github.com/arch-fan/random-anime-fav-img/blob/main/images/characters.jpg?raw=true">
-    <img src="https://github.com/arch-fan/random-anime-fav-img/blob/main/images/staff.jpg?raw=true">
-</p>
-
 <p align="center">ESP/ENG</p>
+
+<p>
+    <img src="https://github.com/arch-fan/random-anime-fav-img/blob/main/images/anime.jpg?raw=true" width="30%">
+    <img src="https://github.com/arch-fan/random-anime-fav-img/blob/main/images/manga.jpg?raw=true" width="30%">
+    <img src="https://github.com/arch-fan/random-anime-fav-img/blob/main/images/characters.jpg?raw=true" width="30%">
+    <img src="https://github.com/arch-fan/random-anime-fav-img/blob/main/images/staff.jpg?raw=true" width="30%">
+</p>
 
 # Badges
 
