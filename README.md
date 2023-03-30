@@ -6,10 +6,10 @@
 <p align="center">ESP/ENG</p>
 
 <p>
-    <img src="https://github.com/arch-fan/random-anime-fav-img/blob/main/images/anime.jpg?raw=true" width="10%">
-    <img src="https://github.com/arch-fan/random-anime-fav-img/blob/main/images/manga.jpg?raw=true" width="10%">
-    <img src="https://github.com/arch-fan/random-anime-fav-img/blob/main/images/characters.jpg?raw=true" width="10%">
-    <img src="https://github.com/arch-fan/random-anime-fav-img/blob/main/images/staff.jpg?raw=true" width="10%">
+    <img src="https://github.com/arch-fan/random-anime-fav-img/blob/main/images/anime.jpg?raw=true" width="20%">
+    <img src="https://github.com/arch-fan/random-anime-fav-img/blob/main/images/manga.jpg?raw=true" width="20%">
+    <img src="https://github.com/arch-fan/random-anime-fav-img/blob/main/images/characters.jpg?raw=true" width="20%">
+    <img src="https://github.com/arch-fan/random-anime-fav-img/blob/main/images/staff.jpg?raw=true" width="20%">
 </p>
 
 # Badges
