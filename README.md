@@ -6,6 +6,7 @@
 <p align="center">ESP/ENG</p>
 
 <p align="center">
+    <p align="center"> Favourites of the day <p>
     <img src="https://github.com/arch-fan/random-anilist-favourite-img/blob/main/images/anime.jpg?raw=true" height="300px">
     <img src="https://github.com/arch-fan/random-anilist-favourite-img/blob/main/images/manga.jpg?raw=true" height="300px">
     <img src="https://github.com/arch-fan/random-anilist-favourite-img/blob/main/images/characters.jpg?raw=true" height="300px">
