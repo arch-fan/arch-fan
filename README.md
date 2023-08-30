@@ -7,10 +7,10 @@
 
 <p align="center">
     <p align="center"> Favourites of the day <p>
-    <img src="https://github.com/arch-fan/random-anilist-favourite-img/blob/main/images/anime.jpg?raw=true" width="25%">
-    <img src="https://github.com/arch-fan/random-anilist-favourite-img/blob/main/images/manga.jpg?raw=true" width="25%">
-    <img src="https://github.com/arch-fan/random-anilist-favourite-img/blob/main/images/characters.jpg?raw=true" width="25%">
-    <img src="https://github.com/arch-fan/random-anilist-favourite-img/blob/main/images/staff.jpg?raw=true" width="25%">
+    <img src="https://github.com/arch-fan/random-anilist-favourite-img/blob/main/images/anime.jpg?raw=true" width="20%">
+    <img src="https://github.com/arch-fan/random-anilist-favourite-img/blob/main/images/manga.jpg?raw=true" width="20%">
+    <img src="https://github.com/arch-fan/random-anilist-favourite-img/blob/main/images/characters.jpg?raw=true" width="20%">
+    <img src="https://github.com/arch-fan/random-anilist-favourite-img/blob/main/images/staff.jpg?raw=true" width="20%">
 </p>
 
 # Badges
