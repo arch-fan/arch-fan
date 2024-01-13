@@ -24,5 +24,5 @@ Hi! I'm Juan, an 18yo coding enthusiast from Spain. My passion lies in both fron
 - ### **Portfolio**: https://arch-fan.com
 
 <p align="center">
-    🇪🇸/🇬🇧
+    🇪🇸 🇬🇧
 </p>
