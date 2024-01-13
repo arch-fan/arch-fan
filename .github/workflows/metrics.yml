@@ -15,7 +15,7 @@ jobs:
       - name: Generate Anilist Metrics
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.anilist.svg
+          filename: resources/metrics.plugin.anilist.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
           plugin_anilist: "yes"
