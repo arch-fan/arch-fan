@@ -1,0 +1,23 @@
+name: Generate Metrics
+
+on:
+  schedule:
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Generate Anilist Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.anilist.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_anilist: "yes"
+          plugin_anilist_user: ${{ secrets.ANILIST_USERNAME }}
+          plugin_anilist_sections: "anime.manga"
