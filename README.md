@@ -14,6 +14,7 @@ Hi! I'm Juan, an 18yo coding enthusiast from Spain. My passion lies in both fron
 - #### **Coding** 🧑‍💻
 - #### **Reading** 📖
 - #### **Videogames** 🎮
+- #### **Music** 🎵
 
 ![Anilist Metrics](./resources/metrics.plugin.anilist.svg)
 
