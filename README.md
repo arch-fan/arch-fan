@@ -10,11 +10,11 @@ Hi! I'm Juan, an 18yo coding enthusiast from Spain. My passion lies in both fron
 
 ## Hobbies
 
-- #### **Anime** 🍙
-- #### **Coding** 🧑‍💻
-- #### **Reading** 📖
-- #### **Videogames** 🎮
-- #### **Music** 🎵
+- **Anime** 🍙
+- **Coding** 🧑‍💻
+- **Reading** 📖
+- **Videogames** 🎮
+- **Music** 🎵
 
 ![Anilist Metrics](./resources/metrics.plugin.anilist.svg)
 
