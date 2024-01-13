@@ -1,4 +1,4 @@
-![Profile](./resources/ghreadme.png)
+![Profile](./resources/ghreadme.gif)
 
 ## About me
 
