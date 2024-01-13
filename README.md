@@ -1,4 +1,5 @@
 ![Profile](./resources/ghreadme.gif)
+![Separator](./resources/separator.png)
 
 ## About me
 
