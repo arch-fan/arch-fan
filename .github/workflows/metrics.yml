@@ -18,7 +18,7 @@ jobs:
           filename: resources/metrics.plugin.anilist.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
-          plugin_anilist: "yes"
+          plugin_anilist: yes
           plugin_anilist_user: ${{ secrets.ANILIST_USERNAME }}
-          plugin_anilist_medias: anime, manga
-          plugin_anilist_sections: characters # favorites, watching, reading,
+          plugin_anilist_sections: characters # favorites, watching, reading
+          plugin_anilist_limit_characters: 22
