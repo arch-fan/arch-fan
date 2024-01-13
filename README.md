@@ -15,6 +15,8 @@ Hi! I'm Juan, an 18yo coding enthusiast from Spain. My passion lies in both fron
 - #### **Reading** 📖
 - #### **Videogames** 🎮
 
+![Anilist Metrics](./resources/metrics.plugin.anilist.svg)
+
 ## Statistics
 
 ![arch-fan's GitHub stats](https://github-readme-stats.vercel.app/api?username=arch-fan&show_icons=true&theme=radical)
