@@ -33,4 +33,5 @@ Hi! I'm Juan, an 19yo coding enthusiast from Spain. My passion lies in both fron
     🇪🇸 🇬🇧
 </p>
 
-$$\style{background-image: url(https://link.arch-fan.com/media/light-noise.gif);}{\text{}}$$
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://link.arch-fan.com/media/light-noise.gif');]{x0000}$}
