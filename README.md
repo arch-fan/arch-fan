@@ -34,4 +34,4 @@ Hi! I'm Juan, an 19yo coding enthusiast from Spain. My passion lies in both fron
 </p>
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/arch-fan/shortlink/blob/main/public/media/light-noise.gif?raw=true');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://wallpapers.com/images/high/jojo-s-bizarre-adventure-diavolo-1280-x-718-wallpaper-h7fdyvwf4bjm4llm.jpg');]{x0000}$}
