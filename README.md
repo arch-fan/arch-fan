@@ -32,3 +32,5 @@ Hi! I'm Juan, an 19yo coding enthusiast from Spain. My passion lies in both fron
 <p align="center">
     🇪🇸 🇬🇧
 </p>
+
+$$\style{background-image: url(https://link.arch-fan.com/media/light-noise.gif);}{\text{}}$$
