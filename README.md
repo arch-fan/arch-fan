@@ -1,6 +1,10 @@
 ![Profile](./resources/ghreadme.gif)
 ![Separator](./resources/separator.png)
-![Visit Counter](https://vcounter.archfan.com/counter.svg?url=https://github.com/arch-fan)
+
+<div align="center">
+    <img src="https://vcounter.archfan.com/counter.svg?url=https://github.com/arch-fan" alt="Visit counter">
+</div>
+
 ## About me
 
 Hi! I'm Juan, an 19yo coding enthusiast from Spain. My passion lies in both frontend and backend development, where I enjoy creating seamless user experiences and robust server-side applications. I have a strong commitment to open source communities, believing in the power of collaborative development and knowledge sharing. My journey in coding is not just a profession, it's a journey of continuous learning and innovation.
